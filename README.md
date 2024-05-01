@@ -44,7 +44,7 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
 
 - :zap: In my free time, I work as a teaching assistant volunteer at <a href="steamforvietnam.org">Steam for Vietnam</a>
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://twitter.com/khartist29)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tnk29/)
 
 - 😄 Pronouns: he/him
 
