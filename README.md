@@ -33,10 +33,10 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ho Chi Minh University of Technology - Vietnam National University <img src="https://hcmut.edu.vn/img/nhanDienThuongHieu/01_logobachkhoatoi.png" width="30">.
+I am a AI/ML Engineer, currently living in Vietnam. I was a Computer Science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ho Chi Minh University of Technology - HCMC Vietnam National University <img src="https://hcmut.edu.vn/img/nhanDienThuongHieu/01_logobachkhoatoi.png" width="30">.
 
 
-- :telescope: I’m a third-year student with experiences in researching about NLP. Currently working on Machine Learning and Web/App Development.
+- :telescope: AI/ML Engineer with specialization in RAG, Agentic Workflow, Azure.
 
 - :seedling: Exploring Data Science, Software Engineering, and Machine Learning.
 
